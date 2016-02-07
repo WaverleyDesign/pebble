@@ -1,0 +1,30 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Waverley Design",
+    "enableMultiJS": true,
+    "longName": "Testface",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "fonts/Roboto-Light.ttf",
+                "name": "ROBOTO_LIGHT_52",
+                "targetPlatforms": null,
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Testface",
+    "targetPlatforms": [
+        "chalk"
+    ],
+    "uuid": "2e0dd05f-4906-4270-86f4-c94049a8b642",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
